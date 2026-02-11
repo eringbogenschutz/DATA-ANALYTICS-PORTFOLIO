@@ -2,7 +2,8 @@
 
 This project compares the target galaxy **cB58** to 100 SDSS spectra to identify the closest matches. I implemented a **sliding-window search** using standardized flux values and Euclidean distance, with optional smoothing to handle noisy data. The goal was to find spectra that align closely with cB58’s features.
 
-**View the full report and visualizations here:** [hw2.pdf](hw2.pdf)  
+**View the full report and visualizations here:** [/Lyman-break Galaxy Search.pdf
+](/Lyman-break Galaxy Search.pdf)  
 *(This file contains the alignment plots of cB58 with the top matching spectra, along with discussion of methods and results.)*
 
 ### Files in this repository
